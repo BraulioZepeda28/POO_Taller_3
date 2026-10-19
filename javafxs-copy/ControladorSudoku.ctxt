@@ -1,0 +1,13 @@
+#BlueJ class context
+#Sun Oct 18 21:45:59 PDT 2026
+comment0.target=ControladorSudoku
+comment1.params=modeloRecibido vistaRecibida
+comment1.target=ControladorSudoku(Sudoku, VistaSudoku)
+comment2.target=void iniciarJuego()
+comment3.target=void configurarEventosCasillas()
+comment4.target=void configurarEventosBotones()
+comment5.params=numPlantilla
+comment5.target=void cambiarPlantilla(int)
+comment6.params=fila col
+comment6.target=void revisarEntradaUsuario(int, int)
+numComments=7

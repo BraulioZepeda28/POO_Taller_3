@@ -1,0 +1,22 @@
+#BlueJ class context
+#Sun Oct 18 21:27:07 PDT 2026
+comment0.target=Sudoku
+comment1.target=Sudoku()
+comment10.target=boolean juegoTerminado()
+comment2.params=opcion
+comment2.target=void cargarTablero(int)
+comment3.params=fila colActual num
+comment3.target=boolean validarFila(int, int, int)
+comment4.params=filaActual col num
+comment4.target=boolean validarColumna(int, int, int)
+comment5.params=fila col num
+comment5.target=boolean validarCuadricula(int, int, int)
+comment6.params=fila col num
+comment6.target=boolean esMovimientoValido(int, int, int)
+comment7.params=f c
+comment7.target=int getValor(int, int)
+comment8.params=f c val
+comment8.target=void setValor(int, int, int)
+comment9.params=f c
+comment9.target=boolean esFija(int, int)
+numComments=11
